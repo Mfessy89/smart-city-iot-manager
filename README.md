@@ -42,18 +42,15 @@ Python project for Smart City IoT Device Manager with user registration and logi
 git clone https://github.com/YOURUSERNAME/smart-city-iot-manager.git
 Navigate to the project folder:
 
-bash
-Copy code
+
 cd smart-city-iot-manager
 Run the Python script:
 
-bash
-Copy code
+
 python smart_city_iot_manager.py
 Follow the on-screen menu to register, login, or view system info.
 
-Screenshots
-(Optional: Add screenshots of your program in action here)
+
 
 Skills Demonstrated
 Python programming: functions, loops, dictionaries, conditionals
